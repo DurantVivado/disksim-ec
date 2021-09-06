@@ -1,0 +1,2 @@
+# disksim-ec
+This is a 64-bit version of DISKSIM. All is done in C. We are committing to integrate the erasure code and data layout function into DISKSIM, which currently only supports RAID5. Disksim does not natively support parallelism (like multithreads), which we want to improve. If you want to figure out the process flow in disksim, please feel free to contact durantthorvald[AT]gmail.com Original: https://www.pdl.cmu.edu/DiskSim/index.shtml
